@@ -1,0 +1,2 @@
+# PythontQT
+PythonQtProject for fun
